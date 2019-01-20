@@ -6,7 +6,7 @@ import { ComingsoonComponent } from './comingsoon/comingsoon.component';
 
 const appRoutes: Routes = [
   {
-    path: 'comingsoon',
+    path: '',
     component: ComingsoonComponent,
   },
    

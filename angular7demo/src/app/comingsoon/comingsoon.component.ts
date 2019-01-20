@@ -12,7 +12,7 @@ export class ComingsoonComponent implements OnInit {
 
   ngOnInit() {
   $('.cd100').countdown100({
-			endtimeYear: 0,
+			endtimeYear: 55,
 			endtimeMonth: 0,
 			endtimeDate: 35,
 			endtimeHours: 18,
